@@ -1,0 +1,4 @@
+set url https://m.vk.com/
+set port 8080
+set action_url https://m.vk.com/
+run
